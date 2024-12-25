@@ -1,6 +1,6 @@
 //Uusuario y contraseña
-const usuarioValido = "juaquiti123";
-const passwordValido = "qlones123";
+const usuarioValido = "Alirika";
+const passwordValido = "151224";
 
 //Obtenemos validez
 let validez = (event) => {

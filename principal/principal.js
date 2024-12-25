@@ -29,7 +29,7 @@ $(window).scroll(function() {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    const images = ['../imagenes/img1.jpeg', '../imagenes/img2.jpeg', '../imagenes/img3.jpeg','../imagenes/img4.jpeg', '../imagenes/img5.jpeg', '../imagenes/img6.jpeg','../imagenes/img7.jpeg', '../imagenes/img8.jpeg', '../imagenes/img9.jpeg','../imagenes/img10.jpeg', '../imagenes/img11.jpeg', '../imagenes/img12.jpeg','../imagenes/img13.jpeg', '../imagenes/img14.jpeg', '../imagenes/img15.jpeg','../imagenes/img16.jpeg', '../imagenes/img17.jpeg', '../imagenes/img18.jpeg'];
+    const images = ['../imagenes/img1.jpeg', '../imagenes/img2.jpeg', '../imagenes/img3.jpeg','../imagenes/img4.jpeg'];
     let currentImageIndex = 0;
     const imageElement = document.querySelector('.contenedor-foto img');
 
